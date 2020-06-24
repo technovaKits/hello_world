@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//degişiklik
+//degişiklik 2
+
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
